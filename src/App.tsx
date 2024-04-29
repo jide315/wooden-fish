@@ -154,7 +154,7 @@ const App: Component = () => {
             <span>GitHub</span>
           </a>
           <a href='https://www.github.com/ares-chang' color='hover:#eee'>
-            @AresChang
+            项目原作者@AresChang
           </a>
         </div>
       </footer>
